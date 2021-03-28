@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 03/hw03-jiang19990105/src/huffman.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+assert.h
+-
+string.h
+-
+minheap.h
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 03/hw03-jiang19990105/src/minheap.h
+
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 03/hw03-jiang19990105/src/minheap.h
+
