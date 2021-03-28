@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -Og -Werror -std=c11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  objs-mac/tester.o objs-mac/ex1_sol.o objs-mac/ex2_sol.o objs-mac/ex3_sol.o objs-mac/ex4_sol.o objs-mac/ex5_sol.o  -o tester-sol 

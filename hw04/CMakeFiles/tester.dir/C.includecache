@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 4/hw04-jiang19990105/src/ex3.c
+assert.h
+-
+

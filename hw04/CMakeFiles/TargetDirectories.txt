@@ -1,0 +1,4 @@
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 4/hw04-jiang19990105/CMakeFiles/rebuild_cache.dir
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 4/hw04-jiang19990105/CMakeFiles/edit_cache.dir
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 4/hw04-jiang19990105/CMakeFiles/tester-sol.dir
+/Users/jiangyukun/Desktop/Computer System Organization Fall2019/Assignment 4/hw04-jiang19990105/CMakeFiles/tester.dir
