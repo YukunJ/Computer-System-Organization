@@ -38,3 +38,5 @@ Course description:
     Cache Look-up
     Analysis of Cache Behavior
     Malloc/free
+    
+Feel free to contact me for any more information at jy2363@nyu.edu
